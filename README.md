@@ -3,14 +3,14 @@ A fun and interactive quiz application built using Flutter. The app presents mul
 
 ## Features
 
- Multiple quiz categories (e.g., Math, Sports, History, Chemistry)
- Tracks correct, wrong, and skipped answers
- Final score summary with clear UI
- Custom UI with color indicators for answer feedback
+ Multiple quiz categories (e.g., Math, Sports, History, Chemistry)<br>
+ Tracks correct, wrong, and skipped answers<br>
+ Final score summary with clear UI<br>
+ Custom UI with color indicators for answer feedback<br>
 
 ### Tech Stack
 
-Flutter (UI framework)
+Flutter (UI framework)<br>
 Dart (Programming language)
 
 #### Screenshots
