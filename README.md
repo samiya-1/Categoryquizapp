@@ -1,16 +1,20 @@
 # quizapp
+A fun and interactive quiz application built using Flutter. The app presents multiple-choice questions in various categories (like Math and Sports), keeps track of right, wrong, and skipped answers, and shows the final score on a results screen.A Quiz App in Flutter 
 
-A new Flutter project.
+## Features
 
-## Getting Started
+ Multiple quiz categories (e.g., Math, Sports, History, Chemistry)
+ Tracks correct, wrong, and skipped answers
+ Final score summary with clear UI
+ Custom UI with color indicators for answer feedback
 
-This project is a starting point for a Flutter application.
+### Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+Flutter (UI framework)
+Dart (Programming language)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Landing page Screenshot ](screenshots/homepage.png)
+![Landing page Screenshot ](screenshots/quizpage.png)
+![Landing page Screenshot ](screenshots/scorecard.png)
