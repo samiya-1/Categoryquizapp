@@ -15,7 +15,7 @@ Dart (Programming language)
 
 #### Screenshots
 <img src="screenshots/homepage.png" alt="Landing page Screenshot in HomePage" width="200">
-<img src="screenshots/quizpage" alt="Landing page Screenshot in QuizPage" width="200">
-<img src="screenshots/scorecard" alt="Landing page Screenshot in ScoreBoard" width="200">
+<img src="screenshots/quizpage.png" alt="Landing page Screenshot in QuizPage" width="200">
+<img src="screenshots/scorecard.png" alt="Landing page Screenshot in ScoreBoard" width="200">
 
 
