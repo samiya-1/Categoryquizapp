@@ -14,7 +14,8 @@ Flutter (UI framework)<br>
 Dart (Programming language)
 
 #### Screenshots
+<img src="screenshots/homepage.png" alt="Landing page Screenshot in HomePage" width="200">
+<img src="screenshots/quizpage" alt="Landing page Screenshot in QuizPage" width="200">
+<img src="screenshots/scorecard" alt="Landing page Screenshot in ScoreBoard" width="200">
 
-![Landing page Screenshot ](screenshots/homepage.png)
-![Landing page Screenshot ](screenshots/quizpage.png)
-![Landing page Screenshot ](screenshots/scorecard.png)
+
